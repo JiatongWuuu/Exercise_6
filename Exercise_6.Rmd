@@ -1,0 +1,7 @@
+---
+title: "Exercise_6"
+author: "Jiatong Wu(12449315), Miao Mou (12486390)"
+date: "2023-07-23"
+output: html_document
+---
+## Exercise 1: Building an R package
